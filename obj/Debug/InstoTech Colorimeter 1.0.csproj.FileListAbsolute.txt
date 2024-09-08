@@ -1,0 +1,78 @@
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.exe.config
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.exe
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.pdb
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.csprojAssemblyReference.cache
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\obj\Debug\InstoTech_Colorimeter_1._0.Form1.resources
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\obj\Debug\InstoTech_Colorimeter_1._0.Properties.Resources.resources
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.csproj.GenerateResource.cache
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.exe
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.pdb
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.dll
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.xml
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Rendra AgusT\source\repos\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.csproj.CopyComplete
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.exe.config
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.exe
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.pdb
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.dll
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.SqlServer.dll
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.dll
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.xml
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.SqlServer.xml
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.xml
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.dll.config
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\obj\Debug\InstoTech_Colorimeter_1._0.Form1.resources
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\obj\Debug\InstoTech_Colorimeter_1._0.Properties.Resources.resources
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.csproj.GenerateResource.cache
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.csproj.CopyComplete
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.exe
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.pdb
+D:\Arduino\HMI\Coding\InstoTech Colorimeter 1.0\obj\Debug\InstoTech_Colorimeter_1._0.Aktivasi.resources
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.exe.config
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.exe
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.pdb
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.dll
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.SqlServer.dll
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.dll
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.xml
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.xml
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.dll.config
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\obj\Debug\InstoTech_Colorimeter_1._0.Aktivasi.resources
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\obj\Debug\InstoTech_Colorimeter_1._0.Form1.resources
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\obj\Debug\InstoTech_Colorimeter_1._0.Properties.Resources.resources
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.csproj.GenerateResource.cache
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.csproj.CopyComplete
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.exe
+D:\Rendra\Arduino\Colorimeter 4.0\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.pdb
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.exe.config
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.exe
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\InstoTech Colorimeter 1.0.pdb
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.dll
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.xml
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\obj\Debug\InstoTech_Colorimeter_1._0.Aktivasi.resources
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\obj\Debug\InstoTech_Colorimeter_1._0.Form1.resources
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\obj\Debug\InstoTech_Colorimeter_1._0.Properties.Resources.resources
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.csproj.GenerateResource.cache
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.csproj.CoreCompileInputs.cache
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.csproj.CopyComplete
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.exe
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.pdb
+C:\Users\antares\Documents\InstoTech Colorimeter 1.0\obj\Debug\InstoTech Colorimeter 1.0.csprojAssemblyReference.cache
